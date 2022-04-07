@@ -62,7 +62,7 @@ const app = {
                   <img
                     src="https://openweathermap.org/img/wn/${
                       day.weather[0].icon
-                    }@4x.png"
+                    }@2x.png"
                     class="card-img-top"
                     alt="${day.weather[0].description}"
                   />
